@@ -1,3 +1,7 @@
+This Todo App:
+mesti di benerin lagi
+
+
 # NativeBase Expo Template
 
 The official NativeBase template for [Expo](https://docs.expo.io/)
